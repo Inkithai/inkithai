@@ -10,8 +10,7 @@
 - [![Twitter Follow](https://img.shields.io/twitter/follow/Inkithai?label=Follow)](https://twitter.com/Inkithai)
 - ⌚︎ Time Zone: Asia/Colombo
 - **I'm an Night :owl:**
--
--## Skills and Experience
+
 🔴 <strong>Programming Languages</strong>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
