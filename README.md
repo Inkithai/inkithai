@@ -1,8 +1,10 @@
 - Hi there ✋!
 - 👋 Hi, I’m @inkithai, a 24 years old Software Engineering Undergraduate from Sri Lanka.
 - 👀 I’m interested in java programming, software engineering, blockchain technology.
-- 🌱 I’m currently learning react.js and DSA.
+- 🌱 I’m currently learning everything 🤣
+- 😄 Pronouns: [She/Her] 👦
 - 💞️ I’m looking to collaborate with other developers. 
+- 🌱   Enthusiast in FullStack development and Blockchain development
 - :confused:	I'm looking for help with Competitive programming andUnderstanding concepts of DSA.
  
 - :zap: Fun Fact: exploring internet and New things
