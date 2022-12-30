@@ -13,6 +13,8 @@
 - ⌚︎ Time Zone: Asia/Colombo
 - **I'm an Night :owl:**
 
+![](https://visitor-badge.glitch.me/badge?page_id=Inkithai.Inkithai)
+
 
 🔴 <strong>Programming Languages</strong>
 
