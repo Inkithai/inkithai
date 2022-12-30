@@ -1,5 +1,6 @@
-- Hi there ✋!
-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=inkithai.visitor-badge)
+-                    - ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=inkithai.visitor-badge)
+- 
+-   Hi there ✋!
 - 👋 Hi, I’m @inkithai, a 24 years old Software Engineering Undergraduate from Sri Lanka.
 - 👀 I’m interested in java programming, software engineering, blockchain technology.
 - 🌱 I’m currently learning everything 🤣
