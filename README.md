@@ -12,7 +12,6 @@
 - [![Twitter Follow](https://img.shields.io/twitter/follow/Inkithai?label=Follow)](https://twitter.com/Inkithai)
 - ⌚︎ Time Zone: Asia/Colombo
 - **I'm an Night :owl:**
-- https://komarev.com/ghpvc/?username=inkithai&label=Profile%20views&color=0e75b6&style=flat" alt="inkithai" /> </p>
 - [![Visitor](https://komarev.com/ghpvc/?username=inkithai&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Inkithai.Inkithai)
