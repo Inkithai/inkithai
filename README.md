@@ -1,11 +1,11 @@
 -   Hi there ✋!
 - 👋 Hi, I’m @inkithai, Software Engineering Undergraduate from Sri Lanka.
-- 👀 I’m interested in java programming, software engineering, blockchain technology.
+- 👀 I’m interested in java programming, software engineering, machine learning.
 - 🌱 I’m currently learning everything 🤣
 - 😄 Pronouns: [She/Her] 👦
 - 💞️ I’m looking to collaborate with other developers. 
 - 🌱   Enthusiast in FullStack development and Blockchain development
-- :confused:	I'm looking for help with Competitive programming andUnderstanding concepts of DSA.
+- :confused:	I'm looking for help with Competitive programming.
  
 - :zap: Fun Fact: exploring internet and New things
 - 📫 How to reach me ... [LinkedIn profile](https://www.linkedin.com/in/inkithai/)
