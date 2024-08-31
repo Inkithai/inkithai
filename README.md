@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 😄 Pronouns: [She/Her] 👦
 - 💞️ I’m looking to collaborate with other developers. 
-- 🌱   Enthusiast in FullStack development and Blockchain development
+- 🌱   Enthusiast in FullStack development and Machine Learning.
 - :confused:	I'm looking for help with Competitive programming.
  
 - :zap: Fun Fact: exploring internet and New things
