@@ -33,7 +33,7 @@
   <tr border="none">
   <td width="50%" align="left">
 
-- 🌱 I’m currently learning **Machile learning**
+- 🌱 I’m currently learning **Machine learning**
 
 - 🧑‍🎓 I'm final year undergraduate student of **SLIIT University**
 
