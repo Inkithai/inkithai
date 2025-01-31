@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 🧑‍🎓 I'm final year undergraduate student of **SLIIT University**
+- 🧑‍🎓 I'm graduate student @ **SLIIT University**
 
 - 💬 Ask me about **JAVA, Javascript, Python,PHP, HTML, CSS**
 
