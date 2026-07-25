@@ -1,20 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Inkithai%20Meiyalagan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%2FML%20Intern%20%7C%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=190&section=header&text=Inkithai%20Meiyalagan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20LLM%20Integrations&descAlignY=55&descAlign=50&descSize=16" width="100%"/>
 </p>
 
-<!-- Badges Row -->
 <p align="center">
-  <a href="https://github.com/Inkithai"><img src="https://komarev.com/ghpvc/?username=Inkithai&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views"/></a>
-  <a href="https://github.com/Inkithai?tab=followers"><img src="https://img.shields.io/github/followers/Inkithai?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/></a>
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full--Stack-667eea?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Colombo%2C%20Sri%20Lanka-0e75b6?style=for-the-badge" alt="Location"/>
+  <a href="https://inkithai-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%E2%86%92%20inkithai.dev-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/inkithai/"><img src="https://img.shields.io/badge/LinkedIn-Inkithai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:inkithai@gmail.com"><img src="https://img.shields.io/badge/Email-inkithai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Inkithai&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="views"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=680&height=50&lines=AI%2FML+Intern+%40+iPartner+Consulting+Inc.;Full-Stack+Developer+%7C+MERN+%7C+Django+%7C+Spring+Boot;Building+RAG%2C+LLMs+%26+Multilingual+AI+Solutions;7x+LinkedIn+Top+Voice+%7C+Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Full-stack+Software+Engineer+specializing+in+AI-driven+systems;LLM+Integrations+%7C+RAG+%7C+NLP+%7C+Scalable+Backend+Architectures;Next.js+%7C+React+%7C+Node.js+%7C+FastAPI+%7C+OpenAI+%7C+Gemini;Building+Production+AI%3A+EduFlow+LMS+%7C+Drafty.AI+%7C+Legal+Docs+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,156 +22,147 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%">
 
-I'm a **Software Engineer & AI/ML Developer** passionate about building intelligent, scalable products that solve real-world problems. Currently working as an **AI/ML Intern at iPartner Consulting Inc.** while completing my final year in Software Engineering.
+Full-stack Software Engineer specializing in **AI-driven systems, LLM integrations, and scalable backend architectures**. I build **production-grade applications** – from AI-powered learning platforms to email automation systems and intelligent document processing pipelines.
 
-**What I'm up to:**
-- 🎓 **Final-Year BSc (Hons) Software Engineering** @ **SLIIT** – Sri Lanka Institute of Information Technology
-- 💼 **AI/ML Intern** @ **iPartner Consulting Inc.** – CNNs, OpenCV, Flask, LLMs
-- 🔭 Building **MCP servers (Liya – Kapruka), RAG study assistants, and trilingual AI chatbots**
-- 🌱 Deep-diving into **GenAI, LangChain, Groq, Vector DBs, and Computer Vision**
-- 💡 Strong full-stack background: **React, Node.js, Django REST, Spring Boot, Go**
-- ⚡ **7x LinkedIn Top Voice** | People call me **Inki**
-- 🎯 Goal: Build impactful AI products for Sri Lanka & beyond
+> Passionate about designing efficient, user-focused systems and delivering impactful software in agile environments.
+
+**📍 Colombo, Sri Lanka | 🌐 [inkithai-portfolio.vercel.app](https://inkithai-portfolio.vercel.app/) | 📧 inkithai@gmail.com**
+
+- 🎓 **BSc (Hons) in Information Technology** @ **SLIIT** – *Jan 2021 – Jun 2025*
+- 💼 **Junior Software Engineer** @ **[XYGen.ai](http://XYGen.ai)** – Next.js, Node.js, LLM automation for Legal Docs Summarization
+- 🏢 **Associate Software Engineer** @ **WIS** – Built **EduFlow AI LMS** & **Drafty.AI** Email Platform
+- 🧠 Focus: **RAG, Embeddings, OCR, Voice-to-Text, Multi-LLM Fallback (OpenAI, Gemini, OpenRouter)**
+- 🚀 **IEEE Published Researcher – ICAC 2024** – ML/AI for student well-being analytics
+- ⚡ Fun fact: People call me **Inki** | 7× LinkedIn Top Voice
 
 </td>
-<td width="40%" align="center">
-  <img src="https://github.com/RavinduRB/RavinduRB/assets/167113225/6539482c-d48c-45d7-b744-5117a084fda4" width="380px" alt="Coder GIF"/>
+<td width="38%" align="center">
+  <img src="https://github.com/RavinduRB/RavinduRB/assets/167113225/6539482c-d48c-45d7-b744-5117a084fda4" width="380px" alt="Coder"/>
   <br/>
-  <img src="https://img.shields.io/badge/Open%20to%20Collab-AI%20Projects-22c55e?style=flat-square" alt="collab"/>
-  <img src="https://img.shields.io/badge/Ask%20me-Java%20%7C%20Python%20%7C%20TS%20%7C%20React-667eea?style=flat-square" alt="ask"/>
+  <a href="https://inkithai-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Available%20for%20Freelance-Hire%20Me-22c55e?style=flat-square" /></a><br/>
+  <img src="https://img.shields.io/badge/Open%20Source-Loves%20Contributing-667eea?style=flat-square" />
 </td>
 </tr>
 </table>
 
 ---
 
-## 🚀 What I Do
+## 💼 Professional Experience
 
-<p align="center">
+**`XYGen.ai` – Junior Software Engineer** `Jul 2025 – Nov 2025`
+> Legal Docs Summarization Platform with LLM-based automation
+- Implemented full-stack features using **Next.js, Node.js, TypeScript** & cloud-hosted AI APIs
+- Developed internal AI tools with **summarization, validation, and automation pipelines**
+- Designed reusable backend modules & API utilities improving dev productivity
+- Enhanced UI workflows with **React, Tailwind, ShadCN, optimized CSR**
+- Agile sprints, code reviews, **CI/CD**, microservices architecture, query optimization & 3rd-party API integrations
 
-`AI / Machine Learning` • `Full-Stack Development` • `RAG & LLMs` • `Multilingual Chatbots` • `MCP Servers` • `Computer Vision`
-
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<h3>🤖 AI / ML</h3>
-CNN Projects<br/>OpenCV + Flask<br/>RAG Systems<br/>Groq & Gemini APIs<br/>Prompt Engineering
-</td>
-<td align="center" width="33%">
-<h3>💻 Full-Stack</h3>
-MERN Stack<br/>Django REST + React<br/>Spring Boot<br/>Go + React<br/>PostgreSQL & MongoDB
-</td>
-<td align="center" width="33%">
-<h3>☁️ Cloud & Tools</h3>
-AWS S3<br/>Azure Boards<br/>Docker<br/>Git / GitHub Actions<br/>Selenium & Testing
-</td>
-</tr>
-</table>
+**`WIS – Associate Software Engineer`** `Jan 2025 – Jun 2025 | Intern Jan 2024 – Jun 2024`
+> Frontend in React.js, API routes in Node.js/REST, Angular dashboard, Laravel admin with RBAC & CRUD
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,php,cs,dart,c" /><br/><br/>
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap,flutter" /><br/><br/>
-  <b>Backend & Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,fastapi" /><br/><br/>
-  <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" /><br/><br/>
-  <b>AI / ML & Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=groq&logoColor=white" />
-  <br/><br/>
-  <b>Cloud, DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,docker,vscode,figma,postman,arduino,linux" />
-</p>
-
----
-
-## 🔥 Featured Projects
+## 🚀 Production Projects I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Liya - Kapruka MCP
-**Kapruka Model Context Protocol Server**
-> Production-grade MCP implementation powering Kapruka's e-commerce AI integration. Built for intelligent product search & ordering.
+### 🎓 EduFlow – AI-Powered LMS
+**Production-ready LMS with AI-driven learning**
+- AI voice assistant with **contextual Q&A + OCR fallback + Google TTS**
+- AI assessment generation via **PDF/PPT extraction → adaptive MCQs**
+- Intelligent tutoring with real-time feedback
+- Document pipelines (PDF, PPT, OCR) for AI reasoning
+- **Multi-LLM fallback: OpenAI, Gemini, OpenRouter**
 
-`TypeScript` `MCP` `AI Agents`<br/>
-🔗 [Repo](https://github.com/Inkithai/Liya) • [MCP Fork](https://github.com/Inkithai/mcp)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 StudyPal – RAG Study Assistant
-**Upload syllabus → Get personalized study plans**
-> AI study assistant using RAG pipeline. Upload PDF syllabi and get structured learning paths, quizzes, and summaries.
-
-`Python` `RAG` `LangChain` `VectorDB`<br/>
-🔗 [Repo](https://github.com/Inkithai/StudyPal)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🇱🇰 Sri-Lankan SMART GPT
-**Trilingual AI Chatbot (සිංහල | தமிழ் | English)**
-> Full-stack MERN app integrated with Groq AI for intelligent, culturally-aware conversations in Sinhala, Tamil, and English.
-
-`MERN` `Groq` `Tailwind`<br/>
-🔗 [Repo](https://github.com/Inkithai/Sri-Lankan-SMART-GPT)
+`Next.js` `Node.js` `RAG` `OCR` `TTS` `LLMs`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Multi-Tenant CRM
-**Django + React + PostgreSQL + S3**
-> Enterprise-grade multi-tenant CRM with role-based access, AWS S3 integration, REST APIs, and analytics dashboard.
+### 📧 Drafty.AI – AI Email Automation
+**Gmail-like AI email platform with voice input**
+- Real-time **voice-to-email dictation** module
+- **Gemini** for email summarization & content generation
+- Gmail-like filtering with **classification + confidence scoring**
+- **Google Calendar API** for scheduling & meeting automation
 
-`Django REST` `React` `PostgreSQL` `AWS`<br/>
-🔗 [Repo](https://github.com/Inkithai/CRM)
+`React` `Gemini` `Node.js` `Speech-to-Text` `GCal API`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Upscale-img & Vision Tools
-**AI Image Enhancement**
-> Experimenting with super-resolution, CNN-based upscaling and computer vision pipelines using OpenCV & ML models.
+### ⚖️ XYGen Legal Docs AI
+**LLM-based Legal Docs Summarization & Validation**
+- Internal AI tools for legal document processing
+- LLM automation pipelines, summarization & validation
+- Reusable backend modules, microservices & optimized queries
+- Laravel admin dashboard with **CRUD, RBAC, API integrations**
 
-`Python` `OpenCV` `CNN` `Flask`<br/>
-🔗 [Repo](https://github.com/Inkithai/Upscale-img)
+`Next.js` `FastAPI` `Laravel` `TypeScript` `OpenAI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏎️ Box-Box-Box – F1 Strategy Optimizer
-**Reverse-engineering 30k races**
-> Language-agnostic algorithmic challenge – optimization of F1 pit strategies using historical race data.
+### 🛒 Liya – Kapruka MCP Server
+**Production MCP for e-commerce AI**
+> Model Context Protocol server for Kapruka – intelligent product search, ordering, and AI agent integration. My latest open-source focus.
 
-`Python` `Algorithms` `Optimization`<br/>
-🔗 [Repo](https://github.com/Inkithai/box-box-box)
+`TypeScript` `MCP` `AI Agents` `Node.js`<br/>
+🔗 [Liya](https://github.com/Inkithai/Liya) • [MCP Core](https://github.com/Inkithai/mcp)
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Inkithai?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repos-667eea?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
-  </a>
+  <a href="https://inkithai-portfolio.vercel.app/"><img src="https://img.shields.io/badge/View%20Full%20Portfolio-Case%20Studies-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Inkithai?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repos-667eea?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack – What I Use Daily
+
+<p align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go" />
+<br/><br/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css,materialui" />
+<img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=white" />
+<br/><br/>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<br/><br/>
+
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tesseract_OCR-5C3EE8?style=for-the-badge&logo=ocr&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-1C3C3C?style=for-the-badge" />
+<br/><br/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
+<br/><br/>
+
+**Cloud / DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,githubactions,git,github,figma" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-0e75b6?style=for-the-badge&logo=githubactions&logoColor=white" />
+
 </p>
 
 ---
@@ -181,18 +170,27 @@ AWS S3<br/>Azure Boards<br/>Docker<br/>Git / GitHub Actions<br/>Selenium & Testi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inkithai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages" width="37%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Inkithai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&rank_icon=github" width="49%" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" width="38%" alt="Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inkithai&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak Stats" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app?username=Inkithai&theme=discord&no-bg=true&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inkithai&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="Streak"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Inkithai&theme=discord&no-bg=true&no-frame=true&margin-w=8&row=1&column=7" width="49%" alt="Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inkithai&theme=react-dark&area=true&order=5&bg_color=0d1117&hide_border=true&line=667eea&point=764ba2" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inkithai&theme=react-dark&area=true&order=5&bg_color=0d1117&hide_border=true&line=667eea&point=764ba2" width="95%" alt="Activity Graph"/>
 </p>
+
+---
+
+## 📚 Publication & Achievements
+
+- 📄 **IEEE Publication – ICAC 2024** – *A Python web-based ML/AI research project analyzing academic, relational, economic, and social influences on university student happiness.*<br/>
+  🔗 [ieeexplore.ieee.org/document/10850992](https://ieeexplore.ieee.org/document/10850992) – Contribution to EdTech & well-being analytics using AI models & data analytics.
+- 🏆 **7× LinkedIn Top Voice**, 32+ Followers, 500+ Connections
+- 🌍 Trilingual AI Solutions – Sinhala, Tamil, English
 
 ---
 
@@ -204,28 +202,18 @@ AWS S3<br/>Azure Boards<br/>Docker<br/>Git / GitHub Actions<br/>Selenium & Testi
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect – I’m Open to Collaborations!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inkithai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Inkithai" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/__inkiii__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/sm.inkii/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:inkithai.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://inkithai-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-inkithai.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/inkithai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Inkithai" target="_blank"><img src="https://img.shields.io/badge/GitHub-Inkithai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://twitter.com/Inkithai" target="_blank"><img src="https://img.shields.io/badge/X-%40Inkithai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:inkithai@gmail.com"><img src="https://img.shields.io/badge/Gmail-inkithai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 <p align="center">
-  💬 <i>Open to AI/ML collaborations, full-stack freelance, and innovative product ideas – let's build something amazing!</i>
+  <i>📫 Reach: +94 75 037 0177 | Colombo, Sri Lanka<br/>💬 Ask me about Next.js, RAG, LLM integrations, AI voice assistants, and scalable backend systems</i>
 </p>
 
 ---
@@ -236,8 +224,7 @@ AWS S3<br/>Azure Boards<br/>Docker<br/>Git / GitHub Actions<br/>Selenium & Testi
   <a href="https://buymeacoffee.com/inkithai" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
   </a>
-  <br/>
-  <sub>Thanks for visiting! Star ⭐ some repos if you like them!</sub>
+  <br/><sub>Thanks for visiting! If you like my work, please ⭐ star repositories!</sub>
 </p>
 
 ---
@@ -247,5 +234,5 @@ AWS S3<br/>Azure Boards<br/>Docker<br/>Git / GitHub Actions<br/>Selenium & Testi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
