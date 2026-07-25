@@ -35,7 +35,7 @@ Full-stack Software Engineer specializing in **AI-driven systems, LLM integratio
 - 🏢 **Associate Software Engineer** @ **WIS** – Built **EduFlow AI LMS** & **Drafty.AI** Email Platform
 - 🧠 Focus: **RAG, Embeddings, OCR, Voice-to-Text, Multi-LLM Fallback (OpenAI, Gemini, OpenRouter)**
 - 🚀 **IEEE Published Researcher – ICAC 2024** – ML/AI for student well-being analytics
-- ⚡ Fun fact: People call me **Inki** | 7× LinkedIn Top Voice
+- ⚡ Fun fact: People call me **Inki**  
 
 </td>
 <td width="38%" align="center">
