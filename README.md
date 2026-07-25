@@ -185,6 +185,18 @@ Full-stack Software Engineer specializing in **AI-driven systems, LLM integratio
 
 ---
 
+## 🐍 Watch my contributions get eaten by a snake!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inkithai/Inkithai/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inkithai/Inkithai/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Inkithai/Inkithai/output/github-contribution-grid-snake.svg" width="95%"/>
+  </picture>
+</p>
+
+---
+
 ## 📚 Publication & Achievements
 
 - 📄 **IEEE Publication – ICAC 2024** – *A Python web-based ML/AI research project analyzing academic, relational, economic, and social influences on university student happiness.*<br/>
