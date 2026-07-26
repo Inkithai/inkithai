@@ -18,6 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Inkithai&label=Profile%20Views&color=8B7FF0&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Inkithai?label=Followers&style=flat-square&logo=github&color=8B7FF0&labelColor=0f0c29" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Inkithai?label=Stars&style=flat-square&logo=github&color=FFB86C&labelColor=0f0c29" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-100%2B-8B7FF0?style=flat-square&logo=github&logoColor=white&labelColor=0f0c29" alt="100+ Pull Requests" />
   <img src="https://img.shields.io/github/last-commit/Inkithai/Inkithai?label=Profile%20Updated&style=flat-square&logo=github&color=22c55e&labelColor=0f0c29" alt="Last Commit" />
 </p>
 
@@ -84,7 +85,7 @@ Full-stack **Software Engineer** focused on **AI-driven systems, LLM integration
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Inkithai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Inkithai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&rank_icon=github&hide=prs" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Inkithai&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="GitHub Streak" />
 </p>
 
