@@ -35,7 +35,7 @@ Full-stack **Software Engineer** focused on **AI-driven systems, LLM integration
 - 💼 Software Engineering experience across **WIS** and **XYGen.ai**
 - 🎓 **BSc (Hons) in Information Technology** — SLIIT
 - 🧠 I build clean APIs, practical AI workflows, and smooth product experiences
-- 🌍 English · Tamil · Sinhala
+- 🌍 English · Tamil 
 
 </td>
 <td width="32%" align="center">
