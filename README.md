@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=8B7FF0&center=true&vCenter=true&width=760&height=34&lines=Full-Stack+Software+Engineer;AI+Systems+%7C+LLM+Integrations+%7C+RAG;Clean+APIs+%2B+Practical+AI+%2B+Scalable+Backends" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:24243e,100:302b63&height=42&section=header&text=%E2%9C%A6%20Full-Stack%20Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20LLM%2FRAG%20%E2%80%A2%20Scalable%20Backends%20%E2%9C%A6&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=52" width="82%" alt="animated marquee banner" />
 </p>
 
 <p align="center">
@@ -29,7 +27,7 @@
   <tr>
     <td width="68%" valign="top">
 
-### ⚡ About Me
+### 👩‍💻 About Me
 
 Full-stack **Software Engineer** focused on **AI-driven systems, LLM integrations, RAG, OCR, voice-to-text, and scalable backend architectures**.
 
@@ -40,7 +38,7 @@ Full-stack **Software Engineer** focused on **AI-driven systems, LLM integration
 
 </td>
 <td width="32%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="coding gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="woman coding illustration" />
 </td>
   </tr>
 </table>
@@ -86,24 +84,30 @@ Full-stack **Software Engineer** focused on **AI-driven systems, LLM integration
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inkithai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Inkithai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&rank_icon=github" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Inkithai&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" width="38%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Inkithai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=5" width="58%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" width="38%" alt="Top Languages" />
+  <img src="https://trophy.benkou.dev/?username=Inkithai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=5" width="58%" alt="GitHub Trophies" />
 </p>
 
-<details>
-  <summary><b>📈 Contribution graph</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inkithai&theme=tokyo-night&hide_border=true&area=true&radius=12" width="96%" alt="Contribution Graph" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inkithai&theme=tokyo-night&hide_border=true&area=true&radius=12" width="96%" alt="Contribution Graph" />
+</p>
 
 ---
+
+### 💭 Random Dev Quote
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <b>Let's build useful software with clean engineering + practical AI.</b>
