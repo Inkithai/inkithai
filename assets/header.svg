@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 200" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Inkithai Meiyalagan — Full-Stack Software Engineer • AI Systems • LLM &amp; RAG">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#1F6FEB"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+    <linearGradient id="fadeFade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1500" height="200" fill="url(#bgGrad)"/>
+  <rect width="1500" height="200" fill="url(#fadeFade)"/>
+
+  <!-- Top wave (mirrored, sits at the very top edge) -->
+  <path d="M0,0 L0,40 C250,80 500,0 750,30 C1000,60 1250,10 1500,40 L1500,0 Z"
+        fill="#0D1117" opacity="0.55"/>
+
+  <!-- Bottom wave (sits at the very bottom edge) -->
+  <path d="M0,200 L0,160 C250,120 500,200 750,170 C1000,140 1250,190 1500,160 L1500,200 Z"
+        fill="#0D1117"/>
+
+  <!-- Name -->
+  <text x="750" y="90"
+        text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="48"
+        font-weight="700"
+        fill="#ffffff">Inkithai Meiyalagan</text>
+
+  <!-- Subtitle -->
+  <text x="750" y="130"
+        text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="18"
+        font-weight="400"
+        fill="#c9d1d9">Full-Stack Software Engineer • AI Systems • LLM &amp; RAG</text>
+</svg>
