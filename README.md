@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://inkithai-portfolio.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=200&section=header&text=Inkithai%20Meiyalagan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20LLM%20%26%20RAG&descSize=14&descAlignY=56&descColor=c9d1d9" width="100%" alt="header" />
+    <img src="assets/header.svg" width="100%" alt="Inkithai Meiyalagan — Full-Stack Software Engineer • AI Systems • LLM & RAG" />
   </a>
 </div>
 
@@ -301,6 +301,6 @@
 
 <div align="center">
   <a href="https://inkithai-portfolio.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer&fontSize=0" width="100%" alt="footer" />
+    <img src="assets/footer.svg" width="100%" alt="footer" />
   </a>
 </div>
