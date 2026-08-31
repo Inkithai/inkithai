@@ -126,12 +126,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Inkithai&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8&rank_icon=github&hide=prs" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Inkithai&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8&rank_icon=github&hide=prs" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Inkithai&theme=github-dark&hide_border=true&border_radius=8" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" width="38%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" width="38%" alt="Top Languages" />
   <img src="https://ghchart.rshah.org/1F6FEB/Inkithai" width="58%" alt="Contribution Graph" />
 </p>
 

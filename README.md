@@ -10,11 +10,8 @@
 
 <div align="center">
   <a href="https://inkithai-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=1F6FEB" alt="Portfolio" /></a>
-   
   <a href="https://www.linkedin.com/in/inkithai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-   
   <a href="mailto:inkithai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-   
   <a href="https://ieeexplore.ieee.org/document/10850992"><img src="https://img.shields.io/badge/IEEE_ICAC_2024-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE ICAC 2024" /></a>
 </div>
 
@@ -22,13 +19,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Inkithai&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views" />
-   
   <img src="https://img.shields.io/github/followers/Inkithai?label=Followers&style=flat-square&logo=github&color=1F6FEB&labelColor=0D1117" alt="GitHub Followers" />
-   
   <img src="https://img.shields.io/github/stars/Inkithai?label=Stars&style=flat-square&logo=github&color=238636&labelColor=0D1117" alt="GitHub Stars" />
-   
   <img src="https://img.shields.io/badge/Pull%20Requests-100%2B-1F6FEB?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="100+ Pull Requests" />
-   
   <img src="https://img.shields.io/github/last-commit/Inkithai/Inkithai?label=Profile%20Updated&style=flat-square&logo=github&color=238636&labelColor=0D1117" alt="Last Commit" />
 </div>
 
@@ -78,7 +71,6 @@
       <br />
       <h4>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="24" alt="brain" />
-         
         <a href="https://github.com/Inkithai/medimind">MediMind — AI Document Intelligence &amp; Grounded RAG</a>
       </h4>
       <p>
@@ -96,7 +88,6 @@
         <a href="https://github.com/Inkithai/medimind">
           <img src="https://img.shields.io/badge/📂_View_Source-1F6FEB?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="Source" />
         </a>
-         
         <a href="https://medimind-murex-nu.vercel.app/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white&labelColor=161B22" alt="Demo" />
         </a>
@@ -106,7 +97,6 @@
       <br />
       <h4>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="24" alt="laptop" />
-         
         <a href="https://github.com/Inkithai/ConvertLab">ConvertLab — Privacy-First On-Device Toolkit</a>
       </h4>
       <p>
@@ -124,7 +114,6 @@
         <a href="https://github.com/Inkithai/ConvertLab">
           <img src="https://img.shields.io/badge/📂_View_Source-1F6FEB?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="Source" />
         </a>
-         
         <a href="https://convertlab-gamma.vercel.app/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white&labelColor=161B22" alt="Demo" />
         </a>
@@ -232,9 +221,8 @@
 
 <div align="center">
   <a href="https://github.com/Inkithai">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Inkithai&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8&rank_icon=github&hide=prs&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Inkithai&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8&rank_icon=github&hide=prs&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
   </a>
-   
   <a href="https://github.com/Inkithai">
     <img src="https://streak-stats.demolab.com?user=Inkithai&theme=github-dark&hide_border=true&border_radius=8&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
   </a>
@@ -244,9 +232,8 @@
 
 <div align="center">
   <a href="https://github.com/Inkithai">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8&bg_color=0D1117&title_color=58A6FF" width="38%" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8&bg_color=0D1117&title_color=58A6FF" width="38%" alt="Top Languages" />
   </a>
-   
   <a href="https://github.com/Inkithai">
     <img src="https://ghchart.rshah.org/1F6FEB/Inkithai" width="57%" alt="Contribution Graph" />
   </a>
@@ -281,9 +268,7 @@
   <p>
     <i>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" alt="handshake" />
-       
       <b>Let's build useful software with clean engineering + practical AI.</b>
-       
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" alt="rocket" />
     </i>
   </p>
