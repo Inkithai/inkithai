@@ -1,4 +1,5 @@
- <br />
+```
+<br />
 
 <div align="center">
   <a href="https://inkithai-portfolio.vercel.app/">
@@ -223,14 +224,7 @@
 
 <br />
 
-<!-- ===== GITHUB ANALYTICS =====
-  Stats & language cards use github-stats-extended — the actively maintained
-  successor to github-readme-stats (old instances are dead/paused).
-  Trophies + contribution graph removed: every public instance is dead.
-  To restore them, self-host (see FIX-GUIDE.md), then re-add:
-    Trophy:   https://<your-deploy>/?username=Inkithai&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=5
-    Graph:    https://<your-deploy>/graph?username=Inkithai&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF
--->
+<!-- ===== GITHUB ANALYTICS ===== -->
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26" alt="chart" />
@@ -239,7 +233,7 @@
 
 <div align="center">
   <a href="https://github.com/Inkithai">
-    <img src="https://github-stats-extended.vercel.app/api?username=Inkithai&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&border_radius=8&rank_icon=github&hide=prs&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Inkithai&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8&rank_icon=github&hide=prs&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
   </a>
    
   <a href="https://github.com/Inkithai">
@@ -251,7 +245,19 @@
 
 <div align="center">
   <a href="https://github.com/Inkithai">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8&bg_color=0D1117&title_color=58A6FF" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8&bg_color=0D1117&title_color=58A6FF" width="38%" alt="Top Languages" />
+  </a>
+   
+  <a href="https://github.com/Inkithai">
+    <img src="https://trophy.benkou.dev/?username=Inkithai&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=5" width="57%" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Inkithai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inkithai&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="96%" alt="Contribution Graph" />
   </a>
 </div>
 
@@ -299,3 +305,6 @@
     <img src="assets/footer.svg" width="100%" alt="footer" />
   </a>
 </div>
+```
+
+ 
