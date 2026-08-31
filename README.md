@@ -223,23 +223,13 @@
 
 <br />
 
-<!--
-  ===== GITHUB ANALYTICS =====
-
-  ⚠️ SELF-HOSTED INSTANCES — see FIX-GUIDE.md before committing this file.
-
-  The old public widget instances are all dead or rate-limited:
-    github-readme-stats-sigma-five.vercel.app  → "Something went wrong / rate limit"
-    github-readme-stats.vercel.app             → deployment paused (503)
-    github-readme-activity-graph.vercel.app    → deployment disabled (402)
-    trophy.benkou.dev / github-profile-trophy.vercel.app → dead (500/402/404)
-
-  Deploy your own free copies on Vercel (5 min, steps in FIX-GUIDE.md), then
-  confirm/rename these three domains to match your deployments:
-    inkithai-stats.vercel.app
-    inkithai-activity-graph.vercel.app
-    inkithai-trophies.vercel.app
-  Until then, the images below will 404. Streak stats & the quote card are fine.
+<!-- ===== GITHUB ANALYTICS =====
+  Stats & language cards use github-stats-extended — the actively maintained
+  successor to github-readme-stats (old instances are dead/paused).
+  Trophies + contribution graph removed: every public instance is dead.
+  To restore them, self-host (see FIX-GUIDE.md), then re-add:
+    Trophy:   https://<your-deploy>/?username=Inkithai&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=5
+    Graph:    https://<your-deploy>/graph?username=Inkithai&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF
 -->
 
 <h2 align="center">
@@ -248,12 +238,10 @@
 </h2>
 
 <div align="center">
-  <!-- SELF-HOSTED: your github-readme-stats deployment -->
   <a href="https://github.com/Inkithai">
-    <img src="https://inkithai-stats.vercel.app/api?username=Inkithai&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8&rank_icon=github&hide=prs&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Inkithai&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&border_radius=8&rank_icon=github&hide=prs&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
   </a>
    
-  <!-- Still on the official instance — works fine -->
   <a href="https://github.com/Inkithai">
     <img src="https://streak-stats.demolab.com?user=Inkithai&theme=github-dark&hide_border=true&border_radius=8&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
   </a>
@@ -262,23 +250,8 @@
 <br />
 
 <div align="center">
-  <!-- SELF-HOSTED: your github-readme-stats deployment (top-langs endpoint) -->
   <a href="https://github.com/Inkithai">
-    <img src="https://inkithai-stats.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8&bg_color=0D1117&title_color=58A6FF" width="38%" alt="Top Languages" />
-  </a>
-   
-  <!-- SELF-HOSTED: your github-profile-trophy deployment -->
-  <a href="https://github.com/Inkithai">
-    <img src="https://inkithai-trophies.vercel.app/?username=Inkithai&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=5" width="57%" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- SELF-HOSTED: your github-readme-activity-graph deployment -->
-  <a href="https://github.com/Inkithai">
-    <img src="https://inkithai-activity-graph.vercel.app/graph?username=Inkithai&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="96%" alt="Contribution Graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8&bg_color=0D1117&title_color=58A6FF" width="48%" alt="Top Languages" />
   </a>
 </div>
 
