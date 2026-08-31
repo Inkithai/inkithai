@@ -31,7 +31,7 @@
         Full-stack <b>Software Engineer</b> focused on <b>AI-driven systems, LLM integrations, RAG, OCR, voice-to-text, and scalable backend architectures</b>.
       </p>
       <ul>
-        <li>💼 Software Engineering experience across <b>WIS</b> and <b><a href="http://XYGen.ai">XYGen.ai</a></b> — building AI workflows, RAG document pipelines, and scalable APIs.</li>
+        <li>💼 Software Engineering experience across <b>WIS</b> and <b>XYGen.ai</b> — building AI workflows, RAG document pipelines, and scalable APIs.</li>
         <li>🎓 <b>BSc (Hons) in Information Technology</b> — SLIIT</li>
         <li>🧠 I build clean APIs, practical AI workflows, and smooth product experiences.</li>
         <li>🌍 English · Tamil</li>
@@ -50,29 +50,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/Inkithai/your-rag-repo">Enterprise RAG & Document Intelligence Pipeline</a></h4>
+      <h4>🧠 <a href="https://github.com/Inkithai/medimind">MediMind — AI Document Intelligence &amp; Grounded RAG</a></h4>
       <p>
-        End-to-end retrieval-augmented generation pipeline with hybrid keyword/vector search, citation tracking, and automated OCR for scanned PDFs.
+        Turns prescriptions, lab reports and scans into a structured clinical timeline, runs safety checks, and answers questions grounded in the exact source page — with OCR fallback and an anonymous workspace model.
       </p>
       <p>
-        <b>Tech Stack:</b> Python, FastAPI, OpenAI API, LangChain, Supabase (pgvector), Docker<br/>
-        <b>Key Impact:</b> Sub-second hybrid retrieval with automated document parsing.
+        <b>Tech Stack:</b> Python, FastAPI, OpenAI API, Supabase, ChromaDB, OCR (Tesseract), Docker, TypeScript<br/>
+        <b>Key Impact:</b> Documents → timeline → safety alerts → source-cited answers, end to end.
       </p>
       <p>
-        <a href="https://github.com/Inkithai/your-rag-repo"><b>[ 📂 View Source ]</b></a> · <a href="https://your-demo-url.vercel.app"><b>[ 🌐 Live Demo ]</b></a>
+        <a href="https://github.com/Inkithai/medimind"><b>[ 📂 View Source ]</b></a> · <a href="https://medimind-murex-nu.vercel.app/"><b>[ 🌐 Live Demo ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🎙️ <a href="https://github.com/Inkithai/voice-ai-assistant">Real-Time Voice-to-Text AI Assistant</a></h4>
+      <h4>💼 <a href="https://github.com/Inkithai/ConvertLab">ConvertLab — Privacy-First On-Device Toolkit</a></h4>
       <p>
-        Full-stack asynchronous transcription and summarization engine supporting live audio streaming and structured NLP extraction.
+        Browser toolkit for file conversion, developer utilities, writing helpers and calculators. Every tool runs on-device in the browser — nothing is uploaded to a server.
       </p>
       <p>
-        <b>Tech Stack:</b> TypeScript, Next.js, FastAPI, Google Cloud Speech-to-Text, Tailwind CSS, PostgreSQL<br/>
-        <b>Key Impact:</b> Real-time audio processing with speaker diarization & summary extraction.
+        <b>Tech Stack:</b> TypeScript, Next.js, React, Tailwind CSS, Vitest<br/>
+        <b>Key Impact:</b> 174+ tools with zero-upload privacy by design — no server ever receives the file.
       </p>
       <p>
-        <a href="https://github.com/Inkithai/voice-ai-assistant"><b>[ 📂 View Source ]</b></a> · <a href="https://your-demo-url.vercel.app"><b>[ 🌐 Live Demo ]</b></a>
+        <a href="https://github.com/Inkithai/ConvertLab"><b>[ 📂 View Source ]</b></a> · <a href="https://convertlab-gamma.vercel.app/"><b>[ 🌐 Live Demo ]</b></a>
       </p>
     </td>
   </tr>
@@ -132,11 +132,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Inkithai&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" width="38%" alt="Top Languages" />
-  <img src="https://trophy.benkou.dev/?username=Inkithai&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=5" width="58%" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inkithai&theme=github-dark&hide_border=true&area=true&radius=8" width="96%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/1F6FEB/Inkithai" width="58%" alt="Contribution Graph" />
 </p>
 
 ---

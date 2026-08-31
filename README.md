@@ -51,7 +51,7 @@
         Full-stack <b>Software Engineer</b> focused on <b>AI-driven systems, LLM integrations, RAG, OCR, voice-to-text, and scalable backend architectures</b>.
       </p>
       <ul>
-        <li>💼 Software Engineering experience across <b>WIS</b> and <b><a href="https://XYGen.ai">XYGen.ai</a></b> — building AI workflows, RAG document pipelines, and scalable APIs.</li>
+        <li>💼 Software Engineering experience across <b>WIS</b> and <b>XYGen.ai</b> — building AI workflows, RAG document pipelines, and scalable APIs.</li>
         <li>🎓 <b>BSc (Hons) in Information Technology</b> — SLIIT</li>
         <li>🧠 I build clean APIs, practical AI workflows, and smooth product experiences.</li>
         <li>🌍 English · Tamil</li>
@@ -77,7 +77,7 @@
     <td width="50%" valign="top">
       <br />
       <h4>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="24" alt="brain" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="24" alt="brain" />
          
         <a href="https://github.com/Inkithai/medimind">MediMind — AI Document Intelligence &amp; Grounded RAG</a>
       </h4>
