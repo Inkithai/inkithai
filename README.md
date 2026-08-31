@@ -51,7 +51,7 @@
         Full-stack <b>Software Engineer</b> focused on <b>AI-driven systems, LLM integrations, RAG, OCR, voice-to-text, and scalable backend architectures</b>.
       </p>
       <ul>
-        <li>💼 Software Engineering experience across <b>WIS</b> and <b><a href="http://XYGen.ai">XYGen.ai</a></b> — building AI workflows, RAG document pipelines, and scalable APIs.</li>
+        <li>💼 Software Engineering experience across <b>WIS</b> and <b><a href="https://XYGen.ai">XYGen.ai</a></b> — building AI workflows, RAG document pipelines, and scalable APIs.</li>
         <li>🎓 <b>BSc (Hons) in Information Technology</b> — SLIIT</li>
         <li>🧠 I build clean APIs, practical AI workflows, and smooth product experiences.</li>
         <li>🌍 English · Tamil</li>
@@ -79,25 +79,25 @@
       <h4>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="24" alt="brain" />
          
-        <a href="https://github.com/Inkithai/your-rag-repo">Enterprise RAG & Document Intelligence Pipeline</a>
+        <a href="https://github.com/Inkithai/medimind">MediMind — AI Document Intelligence &amp; Grounded RAG</a>
       </h4>
       <p>
-        End-to-end retrieval-augmented generation pipeline with hybrid keyword/vector search, citation tracking, and automated OCR for scanned PDFs.
+        Turns prescriptions, lab reports and scans into a structured clinical timeline, runs safety checks, and answers questions grounded in the exact source page — with Tesseract OCR fallback and an anonymous workspace model.
       </p>
       <p>
         <b>🛠 Tech Stack</b><br />
-        <sub><code>Python</code> <code>FastAPI</code> <code>OpenAI API</code> <code>LangChain</code> <code>Supabase (pgvector)</code> <code>Docker</code></sub>
+        <sub><code>Python</code> <code>FastAPI</code> <code>OpenAI API</code> <code>Supabase</code> <code>ChromaDB</code> <code>OCR (Tesseract)</code> <code>Docker</code> <code>TypeScript</code></sub>
       </p>
       <p>
         <b>📈 Key Impact</b><br />
-        <sub>Sub-second hybrid retrieval with automated document parsing.</sub>
+        <sub>Documents → timeline → safety alerts → source-cited answers, end to end.</sub>
       </p>
       <p>
-        <a href="https://github.com/Inkithai/your-rag-repo">
+        <a href="https://github.com/Inkithai/medimind">
           <img src="https://img.shields.io/badge/📂_View_Source-1F6FEB?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="Source" />
         </a>
          
-        <a href="https://your-demo-url.vercel.app">
+        <a href="https://medimind-murex-nu.vercel.app/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white&labelColor=161B22" alt="Demo" />
         </a>
       </p>
@@ -105,27 +105,27 @@
     <td width="50%" valign="top">
       <br />
       <h4>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="24" alt="mic" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="24" alt="laptop" />
          
-        <a href="https://github.com/Inkithai/voice-ai-assistant">Real-Time Voice-to-Text AI Assistant</a>
+        <a href="https://github.com/Inkithai/ConvertLab">ConvertLab — Privacy-First On-Device Toolkit</a>
       </h4>
       <p>
-        Full-stack asynchronous transcription and summarization engine supporting live audio streaming and structured NLP extraction.
+        Browser toolkit for file conversion, developer utilities, writing helpers and calculators. Every tool runs on-device in the browser — nothing is uploaded to a server.
       </p>
       <p>
         <b>🛠 Tech Stack</b><br />
-        <sub><code>TypeScript</code> <code>Next.js</code> <code>FastAPI</code> <code>Google Cloud Speech-to-Text</code> <code>Tailwind CSS</code> <code>PostgreSQL</code></sub>
+        <sub><code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>Vitest</code></sub>
       </p>
       <p>
         <b>📈 Key Impact</b><br />
-        <sub>Real-time audio processing with speaker diarization & summary extraction.</sub>
+        <sub>Zero-upload privacy by design — no server ever receives the file.</sub>
       </p>
       <p>
-        <a href="https://github.com/Inkithai/voice-ai-assistant">
+        <a href="https://github.com/Inkithai/ConvertLab">
           <img src="https://img.shields.io/badge/📂_View_Source-1F6FEB?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="Source" />
         </a>
          
-        <a href="https://your-demo-url.vercel.app">
+        <a href="https://convertlab-gamma.vercel.app/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white&labelColor=161B22" alt="Demo" />
         </a>
       </p>
@@ -155,7 +155,7 @@
       <img src="https://img.shields.io/badge/Vector_DBs_(pgvector)-1F6FEB?style=flat-square&logo=supabase&logoColor=white&labelColor=161B22" alt="Vector DB" />
       <img src="https://img.shields.io/badge/OCR_(OpenCV)-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=161B22" alt="OCR" />
       <img src="https://img.shields.io/badge/Speech--to--Text-4285F4?style=flat-square&logo=googleassistant&logoColor=white&labelColor=161B22" alt="STT" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white&labelColor=161B22" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white&labelColor=161B22" alt="LangChain" />
     </td>
   </tr>
   <tr>
@@ -248,15 +248,7 @@
   </a>
    
   <a href="https://github.com/Inkithai">
-    <img src="https://trophy.benkou.dev/?username=Inkithai&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=5" width="57%" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/Inkithai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inkithai&theme=react-dark&hide_border=true&area=true&radius=8&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="96%" alt="Contribution Graph" />
+    <img src="https://ghchart.rshah.org/1F6FEB/Inkithai" width="57%" alt="Contribution Graph" />
   </a>
 </div>
 
